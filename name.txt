@@ -1,2 +1,2 @@
-Naam1: Anton Doms
+Naam1: Anton Doms snummer = 150359
 Naam2: Jitse Tambuyzer
